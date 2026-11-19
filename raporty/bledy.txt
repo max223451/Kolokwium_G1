@@ -1,0 +1,6 @@
+ERROR;A03;niekompletny_odczyt
+ERROR;A05;brak_probki
+ERROR;B02;blad_kalibracji
+ERROR;D02;brak_sygnalu
+ERROR;D03;przekroczony_zakres
+ERROR;D05;zla_czestotliwosc
